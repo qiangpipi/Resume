@@ -1,23 +1,12 @@
-####个人信息  
-姓名: 吴越  
-性别: 男  
-年龄: 33  
-手机: 86-13910318373  
-电子邮件： qiangpipi@msn.com  
+[中文简介](https://github.com/qiangpipi/Resume/blob/master/Resume_CH)
+[English Introduction](https://github.com/qiangpipi/Resume/blob/master/Resume_EN)
+中文简历
+English Resume
 
-####工作经历:  
-2007年4月 ~ 至今	工作: 软件测试; 角色: 项目经理  
-受雇于ERG Group; 后受雇于亿雅捷北京和京投亿雅捷.  
-
-2004年10月 ~ 2006年12月	工作: 软件测试; 角色: Project lead  
-受雇于西门子移动公司; 后受雇于明基-西门子.  
-
-2002年8月 ~ 2004年9月 	工作: 软件测试; 角色: Test lead  
-受雇于博彦科技, 为微软做软件测试  
-
-2001年8月 ~ 2002年5月 	工作: 软件开发; 角色: 开发人员  
-受雇于凯融科技公司, 进行软件开发  
-
-####教育背景  
-1997 – 2001 	学士学位: 毕业于北方交通大学通信和自动控制专业  
-英语技能: 	国家4级. 熟练的英语口语和书写  
+Complete project in my git:
+[Redis cluster create](https://github.com/qiangpipi/create_redis_cluster)
+[Performance by go](https://github.com/qiangpipi/gtprcheck)
+[Function by python](https://github.com/qiangpipi/gtpy)
+[User Identification base on LDAP](https://github.com/qiangpipi/uas)
+[Golang setup](https://github.com/qiangpipi/golang_setup)
+[Word stat](https://github.com/qiangpipi/word_stat)
